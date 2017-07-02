@@ -4,3 +4,19 @@ respawnDelay = 3;
 disabledAI = 1;
 
 respawnTemplatesWest[] = {"MenuPosition"};
+
+class cfgDebriefing
+{
+
+class End1
+{
+
+title = "You're Victorious!";
+subtitle = "";
+description = "You have killed all the droids and recaptured to battlefield";
+pictureBackground = "";
+picture = "";
+pictureColor[] = {0,0,0,-1};
+
+};
+};

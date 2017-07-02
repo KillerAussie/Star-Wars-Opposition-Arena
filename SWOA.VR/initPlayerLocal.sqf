@@ -8,3 +8,7 @@ hint format ["Welcome To The Arena %1!", _unit];
 if (_isJIP) then {
 hint format ["You're Late %1! Hurry up and get to the frontline!", _unit];
 };
+
+sleep 2;
+
+hint "";
